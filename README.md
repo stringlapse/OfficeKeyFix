@@ -4,6 +4,7 @@ Unbinds the Office Key (Shift+Control+Alt+Win) related shortcuts, allowing you t
 
 Full list of unbound shortcuts and their original behavior (`Office` means `Shift+Control+Alt+Win`):
 - `Office`: Opens Office UWP app
+- `Office+D`: Opens OneDrive
 - `Office+L`: Opens LinkedIn by opening `https://go.microsoft.com/fwlink/?linkid=2044786` (which redirects to `https://www.linkedin.com/?trk=Officekey`) in the default browser
 - `Office+N`: Opens OneNote for Windows 10 UWP app
 - `Office+O`: Opens Outlook
