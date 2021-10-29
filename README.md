@@ -15,4 +15,4 @@ Full list of unbound shortcuts and their original behavior (`Office` means `Shif
 - `Office+Y`: Opens the marketing page for Yammer by opening `https://go.microsoft.com/fwlink/?linkid=2044904` (which reditects to `https://www.yammer.com/`) in the default browser
 - `Office+Space`: Opens the emoji picker
 
-You'll need to compile the script into a binary, and place it in `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup` so it will run on startup. There is a good guide for this here: https://github.com/anthonyheddings/OfficeKeyFix/issues/1
+You'll need to compile the script into a binary, and place it in `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup` so it will run on startup. There is a good guide for this here: https://github.com/anthonyheddings/OfficeKeyFix/issues/1#issuecomment-610310521
